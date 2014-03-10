@@ -4,9 +4,9 @@ simple card duel game
 
 Inside:
 -----------
-4x5 square grid battle field
-blue and red players
-36 cards with numbers
+4x5 square grid battle field;
+blue and red players;
+36 cards with numbers;
 
 Rules:
 ----------
